@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1551524354 source:c:\users\suraj kumar\desktop\quiz game\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<string.h>
+
